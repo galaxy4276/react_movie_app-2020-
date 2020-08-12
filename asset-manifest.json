@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/galaxy4276/react_movie_app-2020-/static/css/main.4dfef9e8.chunk.css",
+    "main.js": "/galaxy4276/react_movie_app-2020-/static/js/main.abd0734a.chunk.js",
+    "main.js.map": "/galaxy4276/react_movie_app-2020-/static/js/main.abd0734a.chunk.js.map",
+    "runtime-main.js": "/galaxy4276/react_movie_app-2020-/static/js/runtime-main.50d2eaf2.js",
+    "runtime-main.js.map": "/galaxy4276/react_movie_app-2020-/static/js/runtime-main.50d2eaf2.js.map",
+    "static/js/2.eb1b9d21.chunk.js": "/galaxy4276/react_movie_app-2020-/static/js/2.eb1b9d21.chunk.js",
+    "static/js/2.eb1b9d21.chunk.js.map": "/galaxy4276/react_movie_app-2020-/static/js/2.eb1b9d21.chunk.js.map",
+    "index.html": "/galaxy4276/react_movie_app-2020-/index.html",
+    "precache-manifest.afd7468a7bc9e649b778fd9b93fe1f10.js": "/galaxy4276/react_movie_app-2020-/precache-manifest.afd7468a7bc9e649b778fd9b93fe1f10.js",
+    "service-worker.js": "/galaxy4276/react_movie_app-2020-/service-worker.js",
+    "static/css/main.4dfef9e8.chunk.css.map": "/galaxy4276/react_movie_app-2020-/static/css/main.4dfef9e8.chunk.css.map",
+    "static/js/2.eb1b9d21.chunk.js.LICENSE.txt": "/galaxy4276/react_movie_app-2020-/static/js/2.eb1b9d21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d2eaf2.js",
+    "static/js/2.eb1b9d21.chunk.js",
+    "static/css/main.4dfef9e8.chunk.css",
+    "static/js/main.abd0734a.chunk.js"
+  ]
+}
